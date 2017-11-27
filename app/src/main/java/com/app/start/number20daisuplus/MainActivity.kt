@@ -94,16 +94,6 @@ class MainActivity : AppCompatActivity() {
     }
 
 
-    override fun finish() {
-
-
-        super.finish()
-    }
-
-    override fun onResume() {
-        super.onResume()
-    }
-
     fun onClick(view: View) {
         //ここはサイコロを振るボタン//
         when (view.id) {
