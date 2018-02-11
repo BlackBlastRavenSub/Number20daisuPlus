@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Number20daisuPlus.iml" filepath="$PROJECT_DIR$/Number20daisuPlus.iml" />
+      <module fileurl="file://C:\Users\KOGUMA\AndroidProjects\Number20daisuPlus\Number20daisuPlus.iml" filepath="C:\Users\KOGUMA\AndroidProjects\Number20daisuPlus\Number20daisuPlus.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\KOGUMA\AndroidProjects\Number20daisuPlus\app\app.iml" filepath="C:\Users\KOGUMA\AndroidProjects\Number20daisuPlus\app\app.iml" />
     </modules>
   </component>
 </project>
